@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"105242ddb1fa25d8","type":"text","text":"# Study Map\n\nKnowledge is interconnected. As you explore various topics—each with a learning plan—use a visual tool like this to record relationships between topics.","x":-380,"y":-900,"width":740,"height":140},
+		{"id":"02b6ff138500ba31","type":"file","file":"2-learning-plan/example-canvas/Subject-2.md","x":160,"y":-560,"width":400,"height":660},
+		{"id":"5353b3cd66f8d8de","type":"file","file":"2-learning-plan/example-canvas/Subject-1.md","x":-580,"y":-560,"width":400,"height":660},
+		{"id":"5c539096beac4e14","type":"text","text":"### Concept 2 ➕\n\n*It can be helpful to split out individual skills/concepts to visualize relationships*","x":160,"y":300,"width":250,"height":240},
+		{"id":"5446b37c5f3ec25d","type":"text","text":"### Skill 1 💪\n\n*It can be helpful to split out individual skills/concepts to visualize relationships*","x":-430,"y":300,"width":250,"height":240}
+	],
+	"edges":[
+		{"id":"cd475ea1ee185533","fromNode":"105242ddb1fa25d8","fromSide":"bottom","toNode":"5353b3cd66f8d8de","toSide":"top"},
+		{"id":"345c6b84103e60eb","fromNode":"105242ddb1fa25d8","fromSide":"bottom","toNode":"02b6ff138500ba31","toSide":"top"},
+		{"id":"b0755b4d4814e6d2","fromNode":"5353b3cd66f8d8de","fromSide":"bottom","toNode":"5446b37c5f3ec25d","toSide":"top"},
+		{"id":"402b278288c8948e","fromNode":"02b6ff138500ba31","fromSide":"bottom","toNode":"5446b37c5f3ec25d","toSide":"top","fromEnd":"arrow","label":"Relationship to Subject"},
+		{"id":"a833d49ba886070e","fromNode":"5446b37c5f3ec25d","fromSide":"right","toNode":"5c539096beac4e14","toSide":"left","fromEnd":"arrow","label":"Connected\nsomehow"},
+		{"id":"933b73360aa88d97","fromNode":"5c539096beac4e14","fromSide":"top","toNode":"02b6ff138500ba31","toSide":"bottom"},
+		{"id":"2d72417a145cd70f","fromNode":"5353b3cd66f8d8de","fromSide":"right","toNode":"02b6ff138500ba31","toSide":"left","label":"Relies on"}
+	]
+}
