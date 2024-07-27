@@ -36,6 +36,12 @@ In truth, I think this one is pretty much the same as the last. However, for the
 
 Can you make something new with this knowledge? I added "Contribute" here because I believe that many skills present themselves at this echelon in collaborative endeavors—think of open source software. Either way, your mastery of a topic allow you to create something that hasn't existed before. Something that works. The ability to create is the ultimate exhibition of mastery—a term we'll be revisiting later.
 
+## Mind the Gaps
+
+In a traditional learning environment, you have a trained teacher guiding you through the taxonomy, making sure you have the resources you need at each echelon and testing your mastery to find out exactly where you are. At least, that's how it's supposed to work.
+
+But when you're a self-directed learner, all of that is on _you_. It's a big  responsibility!
+
 ## One Model, not _The_ Model
 
 Remember that as useful as Bloom's Taxonomy is, it is only one metaphor for the learning process. There are others, and you may your experience does not align with this construction. That is perfectly fine! Mostly I want you to be mindful that there _are_ differing levels of skill and concept mastery, and that you should be testing yourself as you go to determine exactly where you are in your journey.
