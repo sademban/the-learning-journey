@@ -1,15 +1,15 @@
-# 2-2: The Study Map
+# 2-2: The Learning Plan
 
-We've arrived at the entire reason why I had you install Obsidian in the first place. Although you certainly don't have to use the tools available here to make your Study Map, I think between all the options, you'll find something that works for you. 
-## Purpose
+The learning journey is a wandering one, but that doesn't mean you should be aimless from point to point. Composing a plan keeps you accountable to yourself, and allows you to describe clear measures of success. This is the essence of a **learning plan**.
 
-Study Maps provide two purposes: a loose structure to guide your learning objectives, and a way of marking progress and recording discoveries along the way. The specific form is less important than the practice. 
-## Structure
+They can take many shapes. You can build a learning plan for a specific subject, or a broad course of study. You can have multiple interrelated plans for different target areas. However you choose to organize it, a comprehensive plan should have a few core components.
 
-The Study Map comprises several elements. You can use some or all of them, but each has value in guiding your journey.
+## Plan Components
+
+The Learning Plan comprises several elements. You can use some or all of them, but each has value in guiding your journey.
 ### Target Area
 
-The most important elements of your Study Map, however you make it, are the target areas. These are broad topics of study you wish to pursue. You want a target area to be broad enough to encompass many skills and concepts, but not so broad that it doesn't provide direction. For example, "Python Programming" is a good target area, but "Learning to Code," not so much. Even school subjects are too big. "Math" is a terrible target area, but "Calculus" works well.
+The most important elements of your Learning Plan, however you make it, are the target areas. These are broad topics of study you wish to pursue. You want a target area to be broad enough to encompass many skills and concepts, but not so broad that it doesn't provide direction. For example, "Python Programming" is a good target area, but "Learning to Code," not so much. Even school subjects are too big. "Math" is a terrible target area, but "Calculus" works well.
 ### Learning Objectives
 
 For each target area, you need to have clearly-articulated learning objectives. What are the skills and concepts you wish to master during your study? I like to split these up, because they fall nicely into two questions?
@@ -31,4 +31,4 @@ What will be your proof to yourself that you have accomplished your learning goa
 
 Arguably the most important component besides the target areas. This is where you hold yourself accountable by committing time to your study. How many hours per week? When will you study? Use this space to commit to this time investment.
 
-Now, let's see how we can use Obsidian to make our Study Map.
+Now this is a very text-heavy way of thinking about your plan. Obviously that is my bias, but there are other ways as well. For the visually-oriented, we'll explore the Study Map.

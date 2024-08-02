@@ -1,23 +1,26 @@
-# Learning Plan:  Subject 1
+# Learning Plan:  WebApp Pentesting
 
 ## Objectives
 
 _Why do you want to learn this topic?_
+
+To start a career in cybersecurity.
 ### Skills
 
 _What do you want to be able to do?_
 
-- Skill 1
-- Skill 2 
-- Skill 3
+- Identify web app vulnerabilities
+- Use offensive web tools to exploit vulnerable sites
+- Create effective webapp pentest reports
 
 ### Concepts
 
 _What do you want to understand?_
 
-- Concept 1
-- Concept 2
-- Concept 3
+- Web app pentesting methodology
+- OWASP Top 10: exploits/remediations
+- Secure web app coding principles
+- Front-end vs. server-side web apps
 
 ## Existing Strengths
 
@@ -31,13 +34,14 @@ _Here, list skills and knowledge areas you already possess. They may relate to y
 
 _What resources will you use in your study? This could be books, websites, videos, software, or even other people/groups._
 
-- [The Taggart Institute](https://taggartinstitute.org)
+- [PWST](https://taggartinstitute.org/p/pwst)
 
 ## Evidence
 
 _How will you know you have accomplished your learning objective? What **exhibition(s) of mastery** would demonstrate you've learned what you wanted to learn?_
 
-- Creating a learning plan
+- PWST Capstone completion
+- eLearnSecurity eWPT certification
 
 ## Schedule
 
