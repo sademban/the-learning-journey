@@ -33,7 +33,7 @@ Obsidian has a rich plugin ecosystem. You can browse them (and additional themes
 
 ## Canvas
 
-This isn't a plugin; it's a distinct feature of Obsidian. In addition to normal Markdown files, Obsidian can produce diagrams made of files and images. Not everyone will like the text-forward version of mind-mapping that Obsidian's Canvas provides, but I really do. I think it creates some unique ways of relating ideas together, sort of a hybrid between lists and graphs. We'll explore Canvases more when we discuss the [Study Map](2-2_Study-Map.md). 
+This isn't a plugin; it's a distinct feature of Obsidian. In addition to normal Markdown files, Obsidian can produce diagrams made of files and images. Not everyone will like the text-forward version of mind-mapping that Obsidian's Canvas provides, but I really do. I think it creates some unique ways of relating ideas together, sort of a hybrid between lists and graphs. We'll explore Canvases more when we discuss the [Study Map](2-3_Study-Map.md). 
 
 ## Sync
 
