@@ -29,4 +29,4 @@ Again, I am not here to make specific recommendations, since I don't know what y
 
 These question can help evaluate not only whether the resources you've chosen work for you, but whether you are ready for them. It's entirely possible for a given resource to be worthwhile at another time, after you've built more of a foundation elsewhere. 
 
-What we want to avoid at all costs is needlessly banging your head against a wall. Learning should be challenging, not discouraging. Information should be rich, but not opaque. Nobody is assigning this work but you, so make sure you aren't wasting your limited study time with resources that don't work for you.
+At all costs, you want to avoid needlessly banging your head against a wall. Learning should be challenging, not discouraging. Information should be rich, but not opaque. Nobody is assigning this work but you, so make sure you aren't wasting your limited study time with resources that don't work for you.
