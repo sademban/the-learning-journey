@@ -10,6 +10,9 @@ The Learning Plan comprises several elements. You can use some or all of them, b
 ### Target Area
 
 The most important elements of your Learning Plan, however you make it, are the target areas. These are broad topics of study you wish to pursue. You want a target area to be broad enough to encompass many skills and concepts, but not so broad that it doesn't provide direction. For example, "Python Programming" is a good target area, but "Learning to Code," not so much. Even school subjects are too big. "Math" is a terrible target area, but "Calculus" works well.
+### Rationale
+
+Why do you want to learn this? The answer here will be important throughout your journey, so be honest and thorough. As you'll see later, when the going gets tough, this section will remind you why you're doing this.
 ### Learning Objectives
 
 For each target area, you need to have clearly-articulated learning objectives. What are the skills and concepts you wish to master during your study? I like to split these up, because they fall nicely into two questions?
