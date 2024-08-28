@@ -35,5 +35,3 @@ But no matter what you choose, make sure you enjoy using it, and that it works.
 ## Other Modalities
 
 For some people, writing itself is quite distasteful, or a singular challenge that is not worth the effort. I've taught many students with learning differences that meant traditional writing was not a good option for them to demonstrate their understanding, or cement it in the form of notes. If this is you, I strongly recommend using a tool like the built-in dictation assistants in most modern operating systems. What matters is not putting pen to paper or finger to key; what matters is giving order to your thoughts in the form of language. Speech does this well. Speaking your notes as you consume learning material is a perfectly acceptable alternative. I've even recommended that students record short videos that synthesize what they're learning. Again, what matters is the synthesis, not the medium.
-
-Maybe start a learning journey TikTok? Or don't? I have no idea; I'm not cool enough for TikTok.
