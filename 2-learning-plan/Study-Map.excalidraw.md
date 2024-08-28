@@ -2307,8 +2307,8 @@ MDN ^ly1EGP1J
 		},
 		{
 			"type": "diamond",
-			"version": 729,
-			"versionNonce": 1865093434,
+			"version": 730,
+			"versionNonce": 1112590118,
 			"isDeleted": false,
 			"id": "I4ZRt6IX-4eJD6hno4H_j",
 			"fillStyle": "solid",
@@ -2341,9 +2341,13 @@ MDN ^ly1EGP1J
 				{
 					"id": "M01U5GzLzejw4YxvnDu4k",
 					"type": "arrow"
+				},
+				{
+					"id": "fhEkdpxyp3gCZJi4eTYUx",
+					"type": "arrow"
 				}
 			],
-			"updated": 1722324099272,
+			"updated": 1724825068166,
 			"link": null,
 			"locked": false
 		},
@@ -2510,6 +2514,58 @@ MDN ^ly1EGP1J
 			]
 		},
 		{
+			"id": "fhEkdpxyp3gCZJi4eTYUx",
+			"type": "arrow",
+			"x": -284.8108865992813,
+			"y": 497.60625999596334,
+			"width": 117.33999059740268,
+			"height": 67.23976989289372,
+			"angle": 0,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": "e5k75NLDEPrw9akckItwq",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 959902906,
+			"version": 37,
+			"versionNonce": 1581122042,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1724825077511,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					117.33999059740268,
+					67.23976989289372
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "I4ZRt6IX-4eJD6hno4H_j",
+				"focus": -0.2678560343820679,
+				"gap": 13.64764439064497
+			},
+			"endBinding": {
+				"elementId": "8y-dfm7mVec2fLEHMc1NF",
+				"focus": -0.7021843798546347,
+				"gap": 8.33459966321459
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
 			"type": "frame",
 			"version": 577,
 			"versionNonce": 360631482,
@@ -2625,8 +2681,8 @@ MDN ^ly1EGP1J
 		},
 		{
 			"type": "rectangle",
-			"version": 599,
-			"versionNonce": 449546618,
+			"version": 600,
+			"versionNonce": 242857382,
 			"isDeleted": false,
 			"id": "8y-dfm7mVec2fLEHMc1NF",
 			"fillStyle": "solid",
@@ -2651,9 +2707,13 @@ MDN ^ly1EGP1J
 				{
 					"type": "text",
 					"id": "ly1EGP1J"
+				},
+				{
+					"id": "fhEkdpxyp3gCZJi4eTYUx",
+					"type": "arrow"
 				}
 			],
-			"updated": 1722324099272,
+			"updated": 1724825068166,
 			"link": null,
 			"locked": false
 		},
@@ -2763,10 +2823,10 @@ MDN ^ly1EGP1J
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 20,
 		"currentItemTextAlign": "left",
-		"currentItemStartArrowhead": "arrow",
-		"currentItemEndArrowhead": null,
-		"scrollX": 1098.2802596172307,
-		"scrollY": 790.9499920875239,
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": 1278.9047395255923,
+		"scrollY": 213.47902712502443,
 		"zoom": {
 			"value": 0.7584796926170024
 		},
