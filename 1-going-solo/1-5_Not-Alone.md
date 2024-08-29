@@ -1,4 +1,4 @@
-# 1-4: You're Not Really Alone
+# 1-5: You're Not Really Alone
 
 We've been talking all this time about _self_-directed learning. Sure enough, you are the sole captain navigating your learning journey, but that doesn't mean yours is the only boat in the waterway. Even when learning "on your own," sharing your experience with others isn't just helpful—it's essential. 
 
