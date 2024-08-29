@@ -13,3 +13,11 @@ Failure is when we recognize the gaps in our learning. It doesn't feel particula
 It is culture that governs our response to failure more than anything. Throughout school and adult life, we are conditioned to think of failure as shameful. Nothing could be further from the truth. All achievements, on any scale, have only come through failure. Professionals of any stripe will tell you that only repeated failure could have led to success. 
 
 You are not being graded. You never should have been, but that's a topic for another day. Nobody is judging you but you. Give yourself some grace, and chase failure in your learning endeavors. Understand how and why it occurred, then go back and try again.  Chase failure, because in time, you'll start finding something else.
+
+## The Zone
+
+That being said, if you're failing _constantly_, it's time to reassess where you are with the help of a little education theory!
+
+Lev Vygotsky's [Zone of Proximal Development](https://en.wikipedia.org/wiki/Zone_of_proximal_development) has become a keystone theory of modern pedagogy. The short version: learning activities should be challenging, require growth, but not be entirely out of reach for the learner. Keeping your learning activities in the "ZPD" is a constant struggle as a self-directed learner. You need to engage in quite a bit of [metacognition](https://en.wikipedia.org/wiki/Metacognition) to consider whether what you just did was too hard, too easy, or just right. 
+
+Mind the Zone, Goldilocks, and do not let the bears eat you.
