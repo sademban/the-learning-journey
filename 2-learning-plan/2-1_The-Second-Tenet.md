@@ -21,4 +21,4 @@ This is inductive learning.
 
 Once enough of a subject has been covered, one can *deduce* within that domain of knowledge based on prior experience. Going back to Bloom's, deduction lies somewhere between Analyze and Evaluate.
 
-So we're about to wander through some knowledge. But that doesn't mean we go without a map. In this section, we are going to build our Study Map, which will guide and track our progress toward our learning goals.
+So we're about to wander through some knowledge. But that doesn't mean we go without a map. In this section, we are going to build our Learning Plan and Study Map, which will guide and track our progress toward our learning goals.
