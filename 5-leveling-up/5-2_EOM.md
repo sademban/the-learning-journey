@@ -29,3 +29,6 @@ See how that works? There is no universal template for these things; each subjec
 
 Master the material. Build the Rubric. Demonstrate your learning. Repeat again and again and again. That's the journey of the self-directed learner. It takes discipline to actually complete the Exhibition of Mastery. It's much easier to skip it and move on to the next subject. I beg you: don't. Take the time to prove to yourself—and others, if you like—how much you've learned. I promise it will be time well-spent.
 
+## This Course's EoM
+
+What else could the Exhibition be for this course, but the creation of your Learning Plan? But unlike other Exhibitions, this one will never stop being evaluated. 
