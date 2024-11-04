@@ -23,7 +23,7 @@ For each target area, you need to have clearly-articulated learning objectives. 
 While related, these are different results—especially when pursuing target areas with specialized skills. One can become quite proficient at knife techniques without grasping fundamental concepts in cooking, although both would be reasonable learning objectives for someone learning to cook. Or, closer to home for me, you can perfectly explain the theory behind power generation in boxing, but still have terrible form when throwing a punch.
 ### Existing Strengths
 
-You aren't starting from scratch when beginning your course of study. You likely already have somewhat-related knowledge and/or skills that will help you along the way. Your Study Map should list these in some way to form a foundation for creating connections between skills and concepts, and to remind you that, actually, you *do* have what it takes to succeed.
+You aren't starting from scratch when beginning your course of study. You likely already have somewhat-related knowledge and/or skills that will help you along the way. Your Learning Plan should list these in some way to form a foundation for creating connections between skills and concepts, and to remind you that, actually, you *do* have what it takes to succeed.
 ### Resources
 
 For each target area, list what materials you'll need for your study. This could be space, time, notebooks, software—whatever it is you need on hand so you can get to work when you have the time.
