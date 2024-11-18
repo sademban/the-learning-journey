@@ -23,11 +23,11 @@
 - [2-2: The Learning Plan](./2-learning-plan/2-2_Learning-Plan.md)
 - [2-3: The Study Map](./2-learning-plan/2-3_Study-Map.md)
 
-## 3: Choosing Resources
+## 3: Learning Resources
 
-- [3-1: Choosing Resources](./3-choosing-resources/3-1_Choosing-Resources.md)
-- [3-2: Cognitive Load Theory](./3-choosing-resources/3-2_CLT.md)
-- [3-3: Gamification](./3-choosing-resources/3-3_Gamification.md)
+- [3-1: Choosing Resources](./3-learning-resources/3-1_Choosing-Resources.md)
+- [3-2: Cognitive Load Theory](./3-learning-resources/3-2_CLT.md)
+- [3-3: Gamification](./3-learning-resources/3-3_Gamification.md)
 
 ## 4: Doing the Work
 
