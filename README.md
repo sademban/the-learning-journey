@@ -40,7 +40,7 @@ By the end of this course, the learner should be able to:
 By the end of this course, the learner should understand:
 
 - TTI's Four Tenets of Adult Learning
-- Basic education theory concepts, incuding:
+- Basic education theory concepts, including:
 	- Bloom's Taxonomy
 	- Theory of Margin
 	- Zone of Proximal Development
